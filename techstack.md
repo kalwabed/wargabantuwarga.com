@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 kalwabed/wargabantuwarga.com is built on the following main stack:
+
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
@@ -16,11 +17,13 @@ kalwabed/wargabantuwarga.com is built on the following main stack:
 - [Prettier](https://prettier.io/) – Code Review
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 kalwabed/wargabantuwarga.com is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
@@ -35,14 +38,15 @@ kalwabed/wargabantuwarga.com is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [kalwabed/wargabantuwarga.com](https://github.com/kalwabed/wargabantuwarga.com)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|30<br/>Tools used|11/10/23 <br/>Report generated|
+|33<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -216,19 +220,22 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (12)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (15)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (12)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (15)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[@types/react](https://www.npmjs.com/@types/react)|v17.0.13|07/17/21|Resi Respati |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|07/19/21|Irfan Maulana |MIT|N/A|
 |[cheerio](https://www.npmjs.com/cheerio)|v1.0.0|07/05/21|Aditya Purwa |MIT|N/A|
 |[cross-fetch](https://www.npmjs.com/cross-fetch)|v3.1.4|07/07/21|Griko Nibras |MIT|[CVE-2022-1365](https://github.com/advisories/GHSA-7gc6-qh9x-w6h8) (Moderate)|
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.3.0|07/17/21|Resi Respati |MIT|N/A|
 |[eslint-plugin-jsx-a11y](https://www.npmjs.com/eslint-plugin-jsx-a11y)|v6.4.1|07/17/21|Resi Respati |MIT|N/A|
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v3.4.0|07/17/21|Resi Respati |MIT|N/A|
 |[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|v7.24.0|07/17/21|Resi Respati |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v7.0.0|07/05/21|Aditya Purwa |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v11.0.0|07/17/21|Resi Respati |MIT|N/A|
 |[ora](https://www.npmjs.com/ora)|v5.4.1|07/05/21|Zain Fathoni |MIT|N/A|
 |[postcss](https://www.npmjs.com/postcss)|v8.2.13|07/11/21|Hani Husamuddin |MIT|[CVE-2023-44270](https://github.com/advisories/GHSA-7fh5-64p2-3v2j) (Moderate)|
 |[react-dom](https://www.npmjs.com/react-dom)|v17.0.2|07/17/21|Resi Respati |MIT|N/A|
@@ -238,4 +245,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
